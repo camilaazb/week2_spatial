@@ -1,4 +1,4 @@
-# week2_spatial
+# README
 Challenge 1:
 Esta tarea consiste en la elaboración visual de mapas del país de Chile, que contienen información de las ciudades y aeropuertos de este país. 
 
