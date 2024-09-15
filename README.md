@@ -7,7 +7,7 @@ Esta tarea consiste en la elaboración visual de mapas del país de Chile, que c
 | Variable     | Tipo    | Denominación                            | Valores                               |
 |--------------|----------|-----------------------------------------|-------------------------------------------|
 | COUNTRY      | object   | País                                    |     Chile                                 |
-| geometry    | geometry  | Coordinadas geográficas                  |                                           |
+| geometry    | geometry  | Coordenadas geográficas                  |                                           |
 
 
 ### Published map
