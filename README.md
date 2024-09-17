@@ -14,3 +14,5 @@ Esta tarea consiste en la elaboración visual de mapas del país de Chile, que c
 https://camilaazb.github.io/week2_spatial/Tarea_semana%203.html 
 
 ![Mapa de Chile](data/mapa_de_chile.png)
+![mapa de chile](https://github.com/user-attachments/assets/692b2eeb-c05c-46a5-97c9-17f9fb07cd60)
+
